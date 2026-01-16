@@ -18,8 +18,8 @@ Analizar patrones de rotación y retención considerando factores demográficos,
 📂 **Estructura del repositorio**
 
 - `data/` → Contiene el dataset original CSV (`PFDA_People_analytics.csv`)  
-- `docs/` → Documentación con hallazgos, insights y conclusiones (`analisis_rotacion_retencion.docx`)  
-- `notebook/` → Notebook de análisis exploratorio (`eda_rotacion_empleados.ipynb`)  
+- `docs/` → Documentación con hallazgos, insights y conclusiones (`Informe.pdf`)  
+- `notebook/` → Notebook de análisis exploratorio (`ProyectoPython.ipynb`)  
 - `README.md` → Explicación general del proyecto y estructura del repositorio
 
 📊 **Insights principales**
