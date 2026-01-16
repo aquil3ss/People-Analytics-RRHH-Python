@@ -1,4 +1,4 @@
-#People Analytics – Rotación y Retención de Empleados (Python)
+#People Analytics – Rotación y Retención de Empleados (Python)#
 
 📌 **Descripción del proyecto**  
 Análisis de datos de recursos humanos para identificar factores que influyen en la rotación laboral.  
